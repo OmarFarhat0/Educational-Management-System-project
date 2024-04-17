@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="edu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/edu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/edu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="header/EducationalManagementSystem.h" />
+		<Unit filename="header/assistant.h" />
+		<Unit filename="header/assistantManger.h" />
+		<Unit filename="header/course.h" />
+		<Unit filename="header/courseManger.h" />
+		<Unit filename="header/dataManager.h" />
+		<Unit filename="header/doctor.h" />
+		<Unit filename="header/doctorManager.h" />
+		<Unit filename="header/homework.h" />
+		<Unit filename="header/homeworkManager.h" />
+		<Unit filename="header/public.h" />
+		<Unit filename="header/student.h" />
+		<Unit filename="header/studentManager.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

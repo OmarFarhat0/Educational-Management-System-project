@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1682957752 source:d:\omar\„Ì‰ Ê—‘Ì»\edu\main.cpp
+	<iostream>
+	"header/EducationalManagementSystem.h"
+	"header/public.h"
+
+1682197791 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\\doctormanager.h
+	"doctor.h"
+
+1682197766 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\\doctor.h
+
+1682365343 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\projectsystem.h
+	<iostream>
+	<vector>
+	"studentManager.h"
+	"doctorManager.h"
+	"assistantManger.h"
+	"courseManger.h"
+	"homeworkManager.h"
+	"public.h"
+
+1683028867 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\doctormanager.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<map>
+	"doctor.h"
+	"public.h"
+
+1683030634 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\studentmanager.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<map>
+	"student.h"
+	"public.h"
+
+1683028885 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\assistantmanger.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<map>
+	"assistant.h"
+	"public.h"
+
+1683031845 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\coursemanger.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<map>
+	"course.h"
+	"public.h"
+
+1682869483 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\homeworkmanager.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<map>
+	"homework.h"
+	"public.h"
+
+1683023267 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\assistant.h
+	<iostream>
+	<vector>
+	"public.h"
+
+1682960923 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\course.h
+	<iostream>
+	<vector>
+	"public.h"
+
+1683023267 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\doctor.h
+	<iostream>
+	<vector>
+	"public.h"
+
+1683023267 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\student.h
+	<iostream>
+	<vector>
+	"homework.h"
+	"public.h"
+
+1682869874 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\homework.h
+	<iostream>
+	<vector>
+	"public.h"
+
+1682965304 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\public.h
+	<iostream>
+	<vector>
+	<sstream>
+	<regex>
+	<fstream>
+	"public.h"
+
+1683031886 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\datamanager.h
+	<iostream>
+	<vector>
+	"studentManager.h"
+	"doctorManager.h"
+	"assistantManger.h"
+	"courseManger.h"
+	"homeworkManager.h"
+	"public.h"
+
+1683031088 d:\omar\„Ì‰ Ê—‘Ì»\edu\header\educationalmanagementsystem.h
+	<iostream>
+	<vector>
+	"dataManager.h"
+	"public.h"
+
